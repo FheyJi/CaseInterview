@@ -39,7 +39,8 @@ e、DataReader：当我们只需要循序的读取数据而不需要其他操作
 *15、值类型和引用类型的区别？
 引用类型在栈中存储一个引用，其实际的存储位置位于托管堆。简称引用类型部署在托管推上。
 而值类型总是分配在它声明的地方：作为字段时，跟随其所属的变量（实 例）存储；作为局部变量时，存储在栈上。（栈的内存是自动释放的，堆内存是.NET中会由GC来自动释放）
-16、CTS是通用类型系统(Common Type System)
+16、解释下framework底层原理
+17、CTS是通用类型系统(Common Type System)
      CLR是公共语言运行时(Common language runtime)
      CLS是公共语言定义(Common Language）
      
