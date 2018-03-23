@@ -68,6 +68,7 @@ TempData：跨请求数据传递，它的机制类似于Session对象，不同�
 3、webapi跨域问题
 4、webapi安全性问题
 5、你用这些接口做过什么？
+6、什么是restful
 
 四、服务器缓存
 1、用过什么服务器缓存？Redis、MongoDB、Memcached
